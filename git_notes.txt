@@ -8,6 +8,7 @@ All git commands begin with git
 ‘log’ - shows info on a file
 ‘branch’ - adds a new label to the current commit
 ‘checkout’ - changes which branch
+‘push’ - sends changes to remote
 
 GIT workflow - make directory - add / staging - commit
 
