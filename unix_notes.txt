@@ -20,3 +20,5 @@
    20  historu | les
    21  history | less
    22  history > moving_around.txt
+
+Hidden files  - files that start with ‘.’ duh
