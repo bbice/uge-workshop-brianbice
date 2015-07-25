@@ -1,0 +1,16 @@
+GIT
+All git commands begin with git
+‘init’ - initializes git repo
+‘status’ - shows repo status
+‘add’ - stages a file
+‘rm’ - unstages a file
+‘commit’ - commits a file
+‘log’ - shows info on a file
+‘branch’ - adds a new label to the current commit
+‘checkout’ - changes which branch
+‘push’ - sends changes to remote
+
+GIT workflow - make directory - add / staging - commit
+
+‘Hash’ - point in time
+‘Head’ - Most recent commit
