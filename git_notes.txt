@@ -14,3 +14,6 @@ GIT workflow - make directory - add / staging - commit
 
 ‘Hash’ - point in time
 ‘Head’ - Most recent commit
+
+
+jfseghujsghvjskf
